@@ -1,5 +1,5 @@
 # ontology
 
-- [Что такое различение](RAZLICHENIE.md)
+- [Что такое различение](Distinction.md)
 - [Что такое событие](Event.md)
-- [Режимы обработки](Modes.md)
+- [Режимы обработки](TwoModesOfThinking.md)
