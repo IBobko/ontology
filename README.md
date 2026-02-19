@@ -7,3 +7,4 @@
 - [Сознание как способность различать](ConsciousnessAsDistinctionCapacity.md)
 - [Динамика формы и смысла](FormAndMeaningDynamics.md)
 - [Смысловое поле](SemanticField.md)
+- [Система как форма](SystemAsForm.md)
