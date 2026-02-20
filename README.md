@@ -8,3 +8,4 @@
 - [Динамика формы и смысла](FormAndMeaningDynamics.md)
 - [Смысловое поле](SemanticField.md)
 - [Система как форма](SystemAsForm.md)
+- [Любая система имеет «идеального человека»](IdealSubjectInAnySystem.md)
