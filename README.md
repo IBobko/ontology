@@ -11,3 +11,5 @@
 - [Любая система имеет «идеального человека»](IdealSubjectInAnySystem.md)
 - [Методологический натурализм и прозрачность рамки](MethodologicalNaturalismAndFrameworkTransparency.md)
 - [Эпистемология: как возможно знание](Epistemology.md)
+
+- [Внешний и внутренний источник истины: два режима зрелости](ExternalVsInternalSourceOfTruth.md)
