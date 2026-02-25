@@ -16,3 +16,5 @@
 
 - [Внешний и внутренний источник истины: два режима зрелости](ExternalVsInternalSourceOfTruth.md)
 - [Инструкция: что делать, если git «сломался» после rebase](GitRecoveryGuide.md)
+- [Экстраполяция как инструмент проверки утверждений](Extrapolation.md)
+
