@@ -2,6 +2,7 @@
 
 - [Введение](Introduction.md)
 - [Что такое различение](Distinction.md)
+- [Фазы различения](PhasesOfDistinction.md)
 - [Что такое поле переживания](FieldOfExperience.md)
 - [Что такое событие](Event.md)
 - [Режимы обработки](TwoModesOfThinking.md)
