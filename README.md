@@ -14,6 +14,7 @@
 - [Любая система имеет «идеального человека»](IdealSubjectInAnySystem.md)
 - [Методологический натурализм и прозрачность рамки](MethodologicalNaturalismAndFrameworkTransparency.md)
 - [Эпистемология: как возможно знание](Epistemology.md)
+- [Кто такой либерал](WhoIsLiberal.md)
 
 - [Внешний и внутренний источник истины: два режима зрелости](ExternalVsInternalSourceOfTruth.md)
 - [Инструкция: что делать, если git «сломался» после rebase](GitRecoveryGuide.md)
