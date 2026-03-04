@@ -1,6 +1,7 @@
 # ontology
 
 - [Введение](Introduction.md)
+- [Что такое реальность: внутренний и внешний слои](RealityInternalAndExternal.md)
 - [Что такое различение](Distinction.md)
 - [Фазы различения](PhasesOfDistinction.md)
 - [Что такое поле переживания](FieldOfExperience.md)
