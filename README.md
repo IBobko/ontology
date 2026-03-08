@@ -25,5 +25,5 @@
 - [Что такое аксиоматика](Axiomatics.md)
 - [Что такое аксиома](Axiom.md)
 - [Что такое формальная система](FormalSystem.md)
+- [Логика как частный случай введённых правил](LogicAsFrameworkBoundTool.md)
 - [Фиксация логики программирования субъекта в сущностях](SubjectnessInEntities.md)
-
