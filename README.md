@@ -17,6 +17,7 @@
 - [Методологический натурализм и прозрачность рамки](MethodologicalNaturalismAndFrameworkTransparency.md)
 - [Эпистемология: как возможно знание](Epistemology.md)
 - [Критическое мышление](CriticalThinking.md)
+- [Риторические контейнеры: рабочий документ](RhetoricalContainers.md)
 - [Кто такой либерал](WhoIsLiberal.md)
 
 - [Внешний и внутренний источник истины: два режима зрелости](ExternalVsInternalSourceOfTruth.md)
