@@ -27,3 +27,4 @@
 - [Что такое формальная система](FormalSystem.md)
 - [Фиксация логики программирования субъекта в сущностях](SubjectnessInEntities.md)
 
+- [«Иллюзия» как риторическая операция](IllusionAsRhetoricalOperation.md)
