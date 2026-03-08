@@ -17,6 +17,7 @@
 - [Методологический натурализм и прозрачность рамки](MethodologicalNaturalismAndFrameworkTransparency.md)
 - [Эпистемология: как возможно знание](Epistemology.md)
 - [Критическое мышление](CriticalThinking.md)
+- [Риторические контейнеры: рабочий документ](RhetoricalContainers.md)
 - [Кто такой либерал](WhoIsLiberal.md)
 
 - [Внешний и внутренний источник истины: два режима зрелости](ExternalVsInternalSourceOfTruth.md)
@@ -25,6 +26,6 @@
 - [Что такое аксиоматика](Axiomatics.md)
 - [Что такое аксиома](Axiom.md)
 - [Что такое формальная система](FormalSystem.md)
+- [Логика как частный случай введённых правил](LogicAsFrameworkBoundTool.md)
 - [Фиксация логики программирования субъекта в сущностях](SubjectnessInEntities.md)
-
 - [«Иллюзия» как риторическая операция](IllusionAsRhetoricalOperation.md)
