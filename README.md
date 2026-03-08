@@ -28,3 +28,4 @@
 - [Что такое формальная система](FormalSystem.md)
 - [Логика как частный случай введённых правил](LogicAsFrameworkBoundTool.md)
 - [Фиксация логики программирования субъекта в сущностях](SubjectnessInEntities.md)
+- [«Иллюзия» как риторическая операция](IllusionAsRhetoricalOperation.md)
