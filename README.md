@@ -16,6 +16,7 @@
 - [Любая система имеет «идеального человека»](IdealSubjectInAnySystem.md)
 - [Методологический натурализм и прозрачность рамки](MethodologicalNaturalismAndFrameworkTransparency.md)
 - [Эпистемология: как возможно знание](Epistemology.md)
+- [Две философские линии: каталог сущностей и генезис опыта](PhilosophyCatalogVsExperience.md)
 - [Критическое мышление](CriticalThinking.md)
 - [Риторические контейнеры: рабочий документ](RhetoricalContainers.md)
 - [Кто такой либерал](WhoIsLiberal.md)
