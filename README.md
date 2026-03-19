@@ -7,6 +7,7 @@
 - [Что такое поле переживания](FieldOfExperience.md)
 - [Что такое событие](Event.md)
 - [Режимы обработки](TwoModesOfThinking.md)
+- [Страх как сжатие пространства различений](Fear.md)
 - [О важности вопроса «почему»](ImportanceOfWhyQuestion.md)
 - [Сознание как способность различать](ConsciousnessAsDistinctionCapacity.md)
 - [Абсолютное сознание, различение и время](AbsoluteConsciousnessAndTime.md)
