@@ -12,6 +12,7 @@
 - [Сознание как способность различать](ConsciousnessAsDistinctionCapacity.md)
 - [Абсолютное сознание, различение и время](AbsoluteConsciousnessAndTime.md)
 - [Динамика формы и смысла](FormAndMeaningDynamics.md)
+- [Линейность](Linearity.md)
 - [Смысловое поле](SemanticField.md)
 - [Система как форма](System/SystemAsForm.md)
 - [Любая система имеет «идеального человека»](IdealSubjectInAnySystem.md)
