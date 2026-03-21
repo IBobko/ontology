@@ -34,3 +34,5 @@
 - [Логика как частный случай введённых правил](LogicAsFrameworkBoundTool.md)
 - [Фиксация логики программирования субъекта в сущностях](SubjectnessInEntities.md)
 - [«Иллюзия» как риторическая операция](IllusionAsRhetoricalOperation.md)
+- [Сарказм: конфликт формы и смысла](Sarcasm.md)
+
