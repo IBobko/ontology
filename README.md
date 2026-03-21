@@ -19,6 +19,7 @@
 - [Эпистемология: как возможно знание](Epistemology.md)
 - [Две философские линии: каталог сущностей и генезис опыта](PhilosophyCatalogVsExperience.md)
 - [Критическое мышление](CriticalThinking.md)
+- [Сглаживание](smoothing.md)
 - [Риторические контейнеры: рабочий документ](RhetoricalContainers.md)
 - [Кто такой либерал](WhoIsLiberal.md)
 
