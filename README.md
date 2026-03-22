@@ -8,6 +8,7 @@
 - [Что такое событие](Event.md)
 - [Режимы обработки](TwoModesOfThinking.md)
 - [Страх как сжатие пространства различений](Fear.md)
+- [Эмоция как форма: слабый вариант для навигации](Emotion.md)
 - [О важности вопроса «почему»](ImportanceOfWhyQuestion.md)
 - [Сознание как способность различать](ConsciousnessAsDistinctionCapacity.md)
 - [Абсолютное сознание, различение и время](AbsoluteConsciousnessAndTime.md)
