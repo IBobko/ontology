@@ -81,5 +81,43 @@
                 height="49.561642"
                 x="12.20548"
                 y="47.71233"/>
+        <g
+                id="flatPaletteBlock1">
+            <rect
+                    id="flatRect1"
+                    x="12.20548"
+                    y="105"
+                    width="45.40075"
+                    height="49.561642"
+                    style="fill:#5BC0BE;stroke:none"/>
+            <rect
+                    id="flatRect2"
+                    x="57.60623"
+                    y="105"
+                    width="45.40075"
+                    height="49.561642"
+                    style="fill:#A3BE8C;stroke:none"/>
+            <rect
+                    id="flatRect3"
+                    x="103.00698"
+                    y="105"
+                    width="45.40075"
+                    height="49.561642"
+                    style="fill:#D08770;stroke:none"/>
+            <rect
+                    id="flatRect4"
+                    x="148.40773"
+                    y="105"
+                    width="45.40075"
+                    height="49.561642"
+                    style="fill:#B48EAD;stroke:none"/>
+            <rect
+                    id="flatRectBorder1"
+                    x="12.20548"
+                    y="105"
+                    width="181.603"
+                    height="49.561642"
+                    style="fill:none;stroke:#000000;stroke-width:0.116417;stroke-miterlimit:2.9"/>
+        </g>
     </g>
 </svg>
