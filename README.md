@@ -22,6 +22,7 @@
 - [Две философские линии: каталог сущностей и генезис опыта](PhilosophyCatalogVsExperience.md)
 - [Критическое мышление](CriticalThinking.md)
 - [Сглаживание](smoothing.md)
+- [Бесконечность, замкнутость и идеологичность теорий](Infinity.md)
 - [Риторические контейнеры: рабочий документ](RhetoricalContainers.md)
 - [Кто такой либерал](WhoIsLiberal.md)
 
