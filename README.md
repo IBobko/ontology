@@ -2,7 +2,7 @@
 
 - [Введение](Introduction.md)
 - [Что такое реальность: внутренний и внешний слои](RealityInternalAndExternal.md)
-- [Что такое различение](Distinction.md)
+- [Что такое различение](Distinction/Distinction.md)
 - [Фазы различения](PhasesOfDistinction.md)
 - [Что такое поле переживания](FieldOfExperience.md)
 - [Что такое событие](Event.md)
@@ -46,6 +46,6 @@
 ## Мета-раздел
 
 - [Восприятие как сборка: конспект](Perception.md)
-- [Что такое различение](Distinction.md)
+- [Что такое различение](Distinction/Distinction.md)
 - [Конспект: описание, восприятие и различение](Description.md)
 
