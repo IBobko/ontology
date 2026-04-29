@@ -35,6 +35,7 @@
 - [Что такое аксиома](Axiom.md)
 - [Что такое формальная система](System/FormalSystem.md)
 - [Логика как частный случай введённых правил](LogicAsFrameworkBoundTool.md)
+- [Что такое парадокс](Paradox.md)
 - [Фиксация логики программирования субъекта в сущностях](SubjectnessInEntities.md)
 - [«Иллюзия» как риторическая операция](IllusionAsRhetoricalOperation.md)
 - [Сарказм: конфликт формы и смысла](Sarcasm.md)
@@ -48,4 +49,3 @@
 - [Восприятие как сборка: конспект](Perception.md)
 - [Что такое различение](Distinction/Distinction.md)
 - [Конспект: описание, восприятие и различение](Description.md)
-
