@@ -36,7 +36,7 @@
 - [Что такое формальная система](System/FormalSystem.md)
 - [Логика как частный случай введённых правил](LogicAsFrameworkBoundTool.md)
 - [Что такое парадокс](Paradox.md)
-- [Фиксация логики программирования субъекта в сущностях](SubjectnessInEntities.md)
+- [Фиксация логики программирования субъекта в сущностях](Subject/SubjectnessInEntities.md)
 - [«Иллюзия» как риторическая операция](IllusionAsRhetoricalOperation.md)
 - [Сарказм: конфликт формы и смысла](Sarcasm.md)
 - [Мат как носитель интенсивности смысла](Profanity.md)
