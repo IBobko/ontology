@@ -209,6 +209,13 @@ def normalize_tags(value: Any, path: Path, source_dir: Path) -> list[str]:
     return tags
 
 
+def build_topics(path: Path, source_dir: Path) -> list[str]:
+    relative_parent = path.relative_to(source_dir).parent
+    if relative_parent == Path("."):
+        return ["Основное"]
+    return list(relative_parent.parts)
+
+
 def build_payload(
     path: Path,
     config: SyncConfig,
@@ -242,6 +249,7 @@ def build_payload(
         "status": str(metadata.get("wp_status", config.status)),
         "lang": str(metadata.get("lang", config.default_language)),
         "tags": normalize_tags(metadata.get("tags"), path, config.source_dir),
+        "topics": build_topics(path, config.source_dir),
         "project": config.project,
         "collection": config.collection,
         "source_repo": git.repository,
