@@ -1,0 +1,20 @@
+site:
+  url: "https://deconreality.com"
+
+source:
+  project: "ontology"
+  collection: "ontology-notes"
+  source_dir: "."
+  post_type: "source_document"
+  status: "publish"
+  default_language: "ru"
+  tracked_only: true
+
+exclude:
+  - "README.md"
+  - "**/README.md"
+  - "TEMPLATE.md"
+  - "RULES/**"
+  - "GitRecoveryGuide.md"
+  - "tmp/**"
+  - "**/.DS_Store"

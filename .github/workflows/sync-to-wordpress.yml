@@ -1,0 +1,42 @@
+name: Sync ontology notes to WordPress
+
+on:
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: Parse documents without publishing
+        required: false
+        default: true
+        type: boolean
+      path:
+        description: Optional repository-relative Markdown file
+        required: false
+        type: string
+
+permissions:
+  contents: read
+
+concurrency:
+  group: sync-ontology-to-wordpress
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - uses: IBobko/deconreality/.github/actions/sync-to-wp@main
+        with:
+          wp-url: ${{ secrets.WP_URL }}
+          wp-username: ${{ secrets.WP_USERNAME }}
+          wp-app-password: ${{ secrets.WP_APP_PASSWORD }}
+          dry-run: ${{ inputs.dry_run }}
+          path: ${{ inputs.path }}

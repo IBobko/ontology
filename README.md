@@ -1,5 +1,27 @@
 # ontology
 
+## Публикация в WordPress
+
+Этот репозиторий является источником Markdown-документов для публичного архива
+`source_document` на `deconreality.com`. Настройки выборки находятся в
+`.content-sync.yml`, запуск — в GitHub Actions workflow
+`sync-to-wordpress.yml`.
+
+По умолчанию ручной запуск выполняется в режиме `dry_run`. Для публикации нужно
+снять этот флаг и предварительно добавить в GitHub Secrets:
+
+```text
+WP_URL
+WP_USERNAME
+WP_APP_PASSWORD
+```
+
+Поле `path` позволяет сначала проверить или опубликовать один файл, например
+`Introduction.md`. Если оно пустое, обрабатывается вся настроенная выборка.
+
+Общий синхронизатор и WordPress-плагин хранятся в репозитории
+`IBobko/deconreality`.
+
 - [Введение](Introduction.md)
 - [Что такое реальность: внутренний и внешний слои](RealityInternalAndExternal.md)
 - [Что такое различение](Distinction/Distinction.md)
