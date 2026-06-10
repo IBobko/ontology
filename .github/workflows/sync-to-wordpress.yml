@@ -33,10 +33,22 @@ jobs:
         with:
           python-version: "3.12"
 
-      - uses: IBobko/deconreality/.github/actions/sync-to-wp@main
-        with:
-          wp-url: ${{ secrets.WP_URL }}
-          wp-username: ${{ secrets.WP_USERNAME }}
-          wp-app-password: ${{ secrets.WP_APP_PASSWORD }}
-          dry-run: ${{ inputs.dry_run }}
-          path: ${{ inputs.path }}
+      - name: Install sync dependencies
+        run: python -m pip install markdown PyYAML requests
+
+      - name: Sync documents
+        env:
+          WP_URL: ${{ secrets.WP_URL }}
+          WP_USERNAME: ${{ secrets.WP_USERNAME }}
+          WP_APP_PASSWORD: ${{ secrets.WP_APP_PASSWORD }}
+          DRY_RUN: ${{ inputs.dry_run }}
+          DOCUMENT_PATH: ${{ inputs.path }}
+        run: |
+          args=(--repo-root "$GITHUB_WORKSPACE")
+          if [[ "$DRY_RUN" == "true" ]]; then
+            args+=(--dry-run)
+          fi
+          if [[ -n "$DOCUMENT_PATH" ]]; then
+            args+=(--path "$DOCUMENT_PATH")
+          fi
+          python tools/wp/sync_drafts_to_wp.py "${args[@]}"
